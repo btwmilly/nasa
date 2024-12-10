@@ -1,0 +1,16 @@
+C:\Users\pawan\source\repos\Nasa-pawan\Nasa-pawan\bin\Debug\net8.0-windows\Nasa-pawan.exe
+C:\Users\pawan\source\repos\Nasa-pawan\Nasa-pawan\bin\Debug\net8.0-windows\Nasa-pawan.deps.json
+C:\Users\pawan\source\repos\Nasa-pawan\Nasa-pawan\bin\Debug\net8.0-windows\Nasa-pawan.runtimeconfig.json
+C:\Users\pawan\source\repos\Nasa-pawan\Nasa-pawan\bin\Debug\net8.0-windows\Nasa-pawan.dll
+C:\Users\pawan\source\repos\Nasa-pawan\Nasa-pawan\bin\Debug\net8.0-windows\Nasa-pawan.pdb
+C:\Users\pawan\source\repos\Nasa-pawan\Nasa-pawan\obj\Debug\net8.0-windows\Nasa_pawan.Form1.resources
+C:\Users\pawan\source\repos\Nasa-pawan\Nasa-pawan\obj\Debug\net8.0-windows\Nasa-pawan.csproj.GenerateResource.cache
+C:\Users\pawan\source\repos\Nasa-pawan\Nasa-pawan\obj\Debug\net8.0-windows\Nasa-pawan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawan\source\repos\Nasa-pawan\Nasa-pawan\obj\Debug\net8.0-windows\Nasa-pawan.AssemblyInfoInputs.cache
+C:\Users\pawan\source\repos\Nasa-pawan\Nasa-pawan\obj\Debug\net8.0-windows\Nasa-pawan.AssemblyInfo.cs
+C:\Users\pawan\source\repos\Nasa-pawan\Nasa-pawan\obj\Debug\net8.0-windows\Nasa-pawan.csproj.CoreCompileInputs.cache
+C:\Users\pawan\source\repos\Nasa-pawan\Nasa-pawan\obj\Debug\net8.0-windows\Nasa-pawan.dll
+C:\Users\pawan\source\repos\Nasa-pawan\Nasa-pawan\obj\Debug\net8.0-windows\refint\Nasa-pawan.dll
+C:\Users\pawan\source\repos\Nasa-pawan\Nasa-pawan\obj\Debug\net8.0-windows\Nasa-pawan.pdb
+C:\Users\pawan\source\repos\Nasa-pawan\Nasa-pawan\obj\Debug\net8.0-windows\Nasa-pawan.genruntimeconfig.cache
+C:\Users\pawan\source\repos\Nasa-pawan\Nasa-pawan\obj\Debug\net8.0-windows\ref\Nasa-pawan.dll
